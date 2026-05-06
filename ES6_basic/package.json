@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node 0-main.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.5",
+    "babel-jest": "^30.3.0",
+    "eslint": "^10.3.0",
+    "jest": "^30.3.0"
+  }
+}
